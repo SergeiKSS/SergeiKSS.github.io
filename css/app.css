@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #151515;
+    background-image: url('../img/background.jpg');
 }
 
 canvas {
